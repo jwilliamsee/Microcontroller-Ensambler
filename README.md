@@ -15,7 +15,7 @@ Los PIC necesitan tener conectado un cristal oscilador externo.
 PIC  | AVR 
 ------------- | -------------
 Menor consumo de corriente  | Menor voltaje de operación
-Menor tamaño (# de pines)  | Mayor capacidad de memoeria
+Menor tamaño (# de pines)  | Mayor capacidad de memoria
 Mayor # de contadores/timers  | Mayor # de canales PWM
 Mayor # de comparadores analog  | Mayor # de convertidores ADC
 Mayor velocidad del oscilador  | Mayor velocidad de procesamiento
