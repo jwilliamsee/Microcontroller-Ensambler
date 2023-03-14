@@ -24,4 +24,5 @@ Mayor información en la web  |
 
 ![**Fuente**](https://www.youtube.com/@JNorbertoMartinez)
 
-
+### Diagrama para identificar pines del microcontrolador ATTiny2313.
+![](https://github.com/jwilliamsee/Microcontroller-Ensambler/blob/main/Drawings-Schematic/PIN-ATTiny2313.png?raw=true)
