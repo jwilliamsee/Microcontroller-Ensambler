@@ -1,4 +1,4 @@
-# Microcontroller-Ensambler
+# Microcontroller-C/C++
 In this course, i am learning programming for microcontrollers AVR with C/C++.
 ### Programación de microcontroladores AVR con lenguaje C/C++.
 #### Qué es un microcontrolador?
