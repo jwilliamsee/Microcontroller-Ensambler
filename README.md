@@ -1,6 +1,6 @@
 # Microcontroller-Ensambler
-In this course, i am learning programming for microcontrollers AVR with Ensambler.
-### Programación de microcontroladores AVR con lenguaje ensamblador.
+In this course, i am learning programming for microcontrollers AVR with C/C++.
+### Programación de microcontroladores AVR con lenguaje C/C++.
 #### Qué es un microcontrolador?
 #### Es un circuito que en su interior está formado por bloques, unidad de memoria, clock, puertos de comunicación, etc. Se pueden programar en lenguajes de bajo nivel como por ejemplo: Ensamblador, C, C++, visual basic, etc.
 Existen dos principales familias de microcontroladores, los AVR y los PIC.
